@@ -12,7 +12,7 @@ https://github.com/rossmann-engineering/EasyModbusTCP.NET
 To read data of the FT300 you have to send Modbus RTU read request to the FT300. Modbus RTU communication is detailed in the manual of the FT300:
 https://assets.robotiq.com/website-assets/support_documents/document/FT_Sensor_Manual_general_PDF_20190625.pdf
 
-FT300 ROBOTIQ simple code in C:
+FT300 ROBOTIQ sample code in C:
 https://assets.robotiq.com/website-assets/support_documents/document/FT-300_dev_package_SDP-1.0.1_20180328.rar
 
 The FT300 software to visualize data from your PC:
