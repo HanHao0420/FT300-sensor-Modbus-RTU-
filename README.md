@@ -7,8 +7,7 @@ Including utilizing EasyModbus library to Read Holding Registers of sensor and r
 There're some other website can be visited:
 
 How it works:
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/"3g_NJi7ssh8"/0.jpg)]
-(https://www.youtube.com/watch?v=3g_NJi7ssh8" "FT-300 C# 介面展示")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/"3g_NJi7ssh8"/0.jpg)](https://www.youtube.com/watch?v=3g_NJi7ssh8" "FT-300 C# 介面展示")
 
 Example:
 https://github.com/rossmann-engineering/EasyModbusTCP.NET
