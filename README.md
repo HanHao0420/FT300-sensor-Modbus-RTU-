@@ -6,6 +6,9 @@ Including utilizing EasyModbus library to Read Holding Registers of sensor and r
 
 There're some other website can be visited:
 
+How it works:
+https://youtu.be/3g_NJi7ssh8
+
 Example:
 https://github.com/rossmann-engineering/EasyModbusTCP.NET
 
